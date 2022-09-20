@@ -1,5 +1,5 @@
-# Laura Belizón Merchán (100452273)
-# Jorge Lázaro Ruiz (100452172)
+# CODE BY: Laura Belizón Merchán and Jorge Lázaro Ruiz
+# USAGE OF THIS CODE IS STRICTLY FOR REFERENCE ONLY, DO NOT COPY
 
 from math import ceil, floor
 from slist import SList, SNode
